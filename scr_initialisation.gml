@@ -1,0 +1,21 @@
+global.start_key = 0;
+global.save = 0;
+global.reset_key = 0;
+global.hours = 0;
+global.minutes = 0;
+global.seconds = 0;
+global.milliseconds = 0;
+global.state = 0; // off
+global.load = 0;
+global.comparedhours = 9;
+global.comparedminutes = 0;
+global.comparedseconds = 0;
+global.comparedmilliseconds = 0;
+global.summinutes = 0;
+global.sumseconds = 0;
+global.summs = 0;
+global.sumcomparedminutes = 0;
+global.sumcomparedseconds = 0;
+global.sumcomparedms = 0;
+scr_load();
+global.c_pb = c_olive;
